@@ -27,7 +27,7 @@ const Midsection = () => (
       <AccordionItem>
         <AccordionItemHeading>
           <AccordionItemButton>
-            What harsh truths do you prefer to ignore???
+            What harsh truths do you prefer to ignore??? Test Travis
           </AccordionItemButton>
         </AccordionItemHeading>
         <AccordionItemPanel>
